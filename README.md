@@ -69,3 +69,5 @@ Projede **ResNet50V2** mimarisi ile **Transfer Öğrenme (Transfer Learning)** y
 * **Pandas & NumPy**
 * **Matplotlib** (Görselleştirme)
 * **Scikit-learn**
+
+![Training Results](images/result_graph.png)
