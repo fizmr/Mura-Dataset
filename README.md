@@ -38,6 +38,7 @@ By leveraging **Transfer Learning** with the **ResNet50V2** architecture, the mo
 * **Matplotlib** (Visualization)
 * **Scikit-learn** (Class Weights)
 
+[LinkedIn Profile](https://www.linkedin.com/in/furkan-izmir-017249331/) | [Email](f.izmir03@gmail.com)
 ---
 
 <a name="türkçe"></a>
@@ -60,6 +61,8 @@ Projede **ResNet50V2** mimarisi ile **Transfer Öğrenme (Transfer Learning)** y
 | **Sınıf Ağırlığı** | ❌ Yok | ✅ Var |
 | **Augmentation** | Yoğun Geometrik | Hafif Geometrik + Parlaklık |
 | **Doğruluk (Accuracy)** | ~79.01% | **~86.00%** |
+
+[LinkedIn Profile](https://www.linkedin.com/in/furkan-izmir-017249331/) | [Email](f.izmir03@gmail.com)
 
 *Optimize edilmiş yaklaşım, tıbbi görüntülemede sınıf ağırlıklandırmanın ve parlaklık değişimlerinin model başarısını ne kadar artırdığını kanıtlamıştır.*
 
