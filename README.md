@@ -70,4 +70,15 @@ Projede **ResNet50V2** mimarisi ile **Transfer Öğrenme (Transfer Learning)** y
 * **Matplotlib** (Görselleştirme)
 * **Scikit-learn**
 
-![Training Results](images/result_graph.png)
+## 📊 Training Results & Comparison (Eğitim Sonuçları ve Karşılaştırma)
+
+To demonstrate the impact of **Class Balancing** and **Advanced Augmentation**, I compared two different training approaches. The charts below illustrate the performance improvement.
+
+**Sınıf Ağırlıklandırma** ve **Gelişmiş Veri Artırma** tekniklerinin etkisini göstermek için iki farklı eğitim yaklaşımını karşılaştırdım. Aşağıdaki grafikler performans artışını göstermektedir.
+
+| **Approach 1: Baseline Model** <br> *(İlk Deneme)* | **Approach 2: Optimized Model** <br> *(Optimize Edilmiş)* |
+| :---: | :---: |
+| <img src="images/baseline_result.png" width="400"> | <img src="images/optimized_result.png" width="400"> |
+| **Accuracy:** 79.01% | **Accuracy:** ~86.00% |
+| **Configuration:** <br> - ResNet50V2 <br> - Standard Augmentation <br> - No Class Weights | **Configuration:** <br> - ResNet50V2 (Fine-Tuned) <br> - **Brightness Augmentation** <br> - **Class Weights Applied** |
+| *Observation: The model shows signs of overfitting (gap between train/val).* | *Observation: Better generalization and higher accuracy on the validation set.* |
