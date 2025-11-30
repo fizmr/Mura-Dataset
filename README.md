@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
-
 [🇺🇸 English](#english) | [🇹🇷 Türkçe](#türkçe)
 
 ---
@@ -63,7 +62,7 @@ Projede **ResNet50V2** mimarisi ile **Transfer Öğrenme (Transfer Learning)** y
 | **Doğruluk (Accuracy)** | ~79.01% | **~86.00%** |
 
 [LinkedIn Profile](https://www.linkedin.com/in/furkan-izmir-017249331/) | [Email](f.izmir03@gmail.com)
-
+---
 *Optimize edilmiş yaklaşım, tıbbi görüntülemede sınıf ağırlıklandırmanın ve parlaklık değişimlerinin model başarısını ne kadar artırdığını kanıtlamıştır.*
 
 ### 🛠️ Teknolojiler
